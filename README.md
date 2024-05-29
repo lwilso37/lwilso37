@@ -17,8 +17,7 @@ I'm currently studying Graphic Information Technology at ASU Online.
 - Instagram: [@lorndawg](https://instagram.com/lorndawg) 
 
 ### ⚡ Fun fact about me
-- I have a large collection of Furbies and I won't be elaborating on that further.  
-
+- I have a large collection of Furbies and I won't be elaborating on that further.  ![Furb]([https://your-image-url.com/project1.jpg](https://media.tenor.com/5NxQQ1292AYAAAAj/furby-dance.gif))
 
 
 <img src="https://myreadme.vercel.app/api/embed/lwilso37?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
