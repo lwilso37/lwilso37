@@ -17,7 +17,8 @@ I'm currently studying Graphic Information Technology at ASU Online.
 - Instagram: [@lorndawg](https://instagram.com/lorndawg) 
 
 ### ⚡ Fun fact about me
-- I have a large collection of Furbies and I won't be elaborating on that further.  <div class="tenor-gif-embed" data-postid="14680601" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tegan-teganiversen-retro-90s-furby-gif-14680601">Tegan Teganiversen Sticker</a>from <a href="https://tenor.com/search/tegan-stickers">Tegan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- I have a large collection of Furbies and I won't be elaborating on that further.  <img align="center" src="https://media.tenor.com/TcktF4N1O1YAAAAi/tegan-teganiversen.gif"/>
+
 
 
 
