@@ -5,23 +5,16 @@
 -->
 
 I'm Lorna McKay, from Aberdeen, Scotland. Welcome to my GitHub profile!
+### About Me
+I am passionate about learning new things and I love creating art! I am new to the world of GitHub but enjoying my learning journey so far!
 
-### 🌱 I’m currently learning
-- [HTML]: Brief reason or what you find interesting about it
-- [Technology/Tool 2]: Brief reason or what you find interesting about it
+### What I'm Studying
+I'm currently studying Graphic Information Technology at ASU Online.
 
-### 👯 I’m looking to collaborate on
-- [Project/Type of project]: Brief description of what you are looking for in collaborators
-
-### 🤔 I’m looking for help with
-- [Issue/Topic]: Brief description of the help you need
-
-### 💬 Ask me about
-- [Topic/Technology/Project]: Brief reason or what you are passionate about it
 
 ### 📫 How to reach me
 - Email: [lwilso37@asu.edu](mailto:lwilso37@asu.edu)
 - Instagram: [@lorndawg](https://instagram.com/lorndawg) 
 
-### ⚡ Fun fact
-- [A fun fact about you or something interesting related to your work or hobbies]
+### ⚡ Fun fact about me
+- I have a large collection of Furbies and I won't be elaborating on that further.  
