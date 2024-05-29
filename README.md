@@ -18,3 +18,7 @@ I'm currently studying Graphic Information Technology at ASU Online.
 
 ### ⚡ Fun fact about me
 - I have a large collection of Furbies and I won't be elaborating on that further.  
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/lwilso37?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
