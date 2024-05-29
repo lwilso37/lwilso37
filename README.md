@@ -8,7 +8,7 @@ I'm Lorna McKay, from Aberdeen, Scotland. Welcome to my GitHub profile!
 <img src="https://myreadme.vercel.app/api/embed/lwilso37?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### About Me
-I am passionate about learning new things and I love creating art! I am new to the world of GitHub but enjoying my learning journey so far!
+I am passionate about creating art and I love learning new skills- I am a complete beginner to GitHub but am thoroughly enjoying my learning journey so far!
 
 ### What I'm Studying
 I'm currently studying Graphic Information Technology at ASU Online.
